@@ -1,62 +1,77 @@
 # VitaClin
 
 <p align="center">
-  <strong>Estética avançada e bem-estar em Curitiba.</strong><br />
-  Tratamentos personalizados, tecnologia e uma equipe preparada para cuidar de você.
+  <strong>Sua clínica, viva e leve.</strong><br />
+  Agenda, prontuário, financeiro e WhatsApp em um só lugar — com IA para deixar a gestão mais simples.
 </p>
 
 <p align="center">
-  <a href="https://www.vitaclin.com.br/"><img alt="Agendar avaliação gratuita" src="https://img.shields.io/badge/AGENDAR%20AVALIAÇÃO%20GRÁTIS-9B2C62?style=for-the-badge" /></a>
+  <a href="https://vitaclin.software/checkout?trial=1"><img alt="Testar gratuitamente" src="https://img.shields.io/badge/TESTAR%20GRATUITAMENTE-2563EB?style=for-the-badge" /></a>
   &nbsp;
-  <a href="https://www.vitaclin.com.br/"><img alt="Conhecer tratamentos" src="https://img.shields.io/badge/CONHECER%20TRATAMENTOS-242424?style=for-the-badge" /></a>
+  <a href="https://vitaclin.software/"><img alt="Conhecer o produto" src="https://img.shields.io/badge/CONHECER%20O%20PRODUTO-111827?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <sub>#estética #bemestar #beleza #saúde #curitiba #empresas</sub>
-</p>
-
----
-
-## Seu cuidado começa com uma avaliação
-
-Na **VitaClin**, cada tratamento começa entendendo o que você busca. A clínica une atendimento especializado e tecnologias reconhecidas para oferecer opções de estética facial, corporal, depilação a laser e cuidados de bem-estar.
-
-<p align="center">
-  <a href="https://www.vitaclin.com.br/"><strong>👉 Quero agendar minha avaliação gratuita</strong></a>
-</p>
-
-## Recursos para realçar o seu bem-estar
-
-### Estética facial
-
-Opções para acne, manchas, rugas, olheiras, flacidez, rejuvenescimento e harmonização facial. Entre os recursos disponíveis estão limpeza de pele por hidrossucção, peelings, microagulhamento, luz pulsada, radiofrequência e ultrassom microfocado.
-
-### Estética corporal
-
-Tratamentos voltados a gordura localizada, celulite, estrias, flacidez e outros cuidados corporais. A VitaClin oferece tecnologias como criolipólise, carboxiterapia, mesoterapia, Power Shape, VelaShape II e Vita Lipo.
-
-### Depilação a laser
-
-Soluções de depilação a laser para diferentes áreas e tipos de pele, com equipamentos como Vectus e LightSheer Duet.
-
-### Spa e massagens
-
-Momentos de cuidado e relaxamento para completar sua rotina de bem-estar.
-
-## Por que conhecer a VitaClin?
-
-- ✨ Atua em estética e bem-estar desde 1996
-- 👩‍⚕️ Profissionais capacitados e atendimento personalizado
-- 🔬 Tecnologias modernas para diferentes necessidades
-- 📍 Clínica em Curitiba, com avaliação gratuita
-
-<p align="center">
-  <a href="https://www.vitaclin.com.br/"><img alt="Acessar VitaClin" src="https://img.shields.io/badge/ACESSAR%20VITACLIN-9B2C62?style=for-the-badge" /></a>
+  <sub>#softwaremedico #gestaodeclinicas #saudedigital #prontuarioeletronico #inteligenciaartificial</sub>
 </p>
 
 ---
 
+## Gestão completa para a rotina real da sua clínica
+
+A **VitaClin** é um software médico para clínicas e consultórios. Centralize a operação em uma plataforma intuitiva e tenha mais tempo para cuidar dos pacientes.
+
 <p align="center">
-  <strong>VitaClin — Estética & Bem-estar</strong><br />
-  Cuidado, tecnologia e confiança para você se sentir bem.
+  <a href="https://vitaclin.software/checkout?trial=1"><strong>👉 Começar teste gratuito</strong></a>
+</p>
+
+## Recursos que trabalham juntos
+
+### Agenda médica
+
+Tenha visibilidade total dos atendimentos com uma agenda pensada para a rotina do consultório. Cadastre profissionais, convênios e horários em minutos.
+
+### Prontuário eletrônico
+
+Personalize o prontuário conforme sua prática, registre os atendimentos com agilidade e mantenha as informações importantes sempre à mão.
+
+### Gestão financeira
+
+Acompanhe a saúde financeira da clínica em tempo real: fluxo de caixa, produção e repasses por profissional.
+
+### WhatsApp e marketing médico
+
+Envie lembretes, campanhas e mensagens personalizadas para melhorar a experiência do paciente, sem trabalho manual repetitivo.
+
+### Agendamento online e teleconsulta
+
+Simplifique marcações mesmo quando a clínica estiver fechada e realize atendimentos remotos com o prontuário aberto.
+
+### IA integrada
+
+Conte com recursos de IA para tornar a rotina mais leve, como apoio a resumos de atendimento e organização das informações.
+
+## Da configuração ao crescimento, sem drama
+
+1. **Configure em minutos:** cadastre equipe, convênios e horários com onboarding guiado.
+2. **Atenda com fluidez:** agenda, prontuário e cobrança conversam entre si.
+3. **Cresça com clareza:** acompanhe relatórios de produção, fluxo de caixa e ocupação.
+
+## Feito para clínicas que valorizam segurança e simplicidade
+
+- 🔒 Criptografia, segurança de nível bancário e backups diários
+- ✅ LGPD by design
+- 💬 Suporte humano em toda a experiência
+- ✨ Interface intuitiva, com IA integrada
+- 🩺 Para diversas especialidades médicas e de saúde
+
+<p align="center">
+  <a href="https://vitaclin.software/checkout?trial=1"><img alt="Testar VitaClin gratuitamente" src="https://img.shields.io/badge/COMEÇAR%20AGORA-2563EB?style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">
+  <strong>VitaClin</strong><br />
+  Menos gestão pesada. Mais cuidado.
 </p>
